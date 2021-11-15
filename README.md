@@ -3,12 +3,12 @@
 
 
 ### I'm a new Front-End Developer 
-I'm a student, and I'm in my last year inte career of computer systems engineering.
+I'm a student, and I'm in my last year in the career of computer systems engineering.
 
 
 - 👨‍💻 Autodidactic.
-- 👽 I’m currently learning English.
-- 👾 I really enojoy watching movies, series, and play videogame.
+- 👽 I'm currently learning English.
+- 👾 I really enjoy watching movies, series, and playing video games..
 
 ## ⚙️ Skills:
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
